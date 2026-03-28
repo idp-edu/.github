@@ -5,7 +5,6 @@
 👨‍🏫 Responsáveis nas Graduações em Tecnologia:
 
 Prof. Lucas Martins - lucas.martins@idp.edu.br   
-Luciano Gois - luciano.gois@idp.edu.br
 
 
 ⚙️ Dúvidas de uso e organização da página:  
