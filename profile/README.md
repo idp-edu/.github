@@ -4,13 +4,11 @@
   
 👨‍🏫 Responsáveis nas Graduações em Tecnologia (CIC e EGS):
 
-prof. Lucas Martins - lucas.martins@idp.edu.br & graduacao.tecnologia@idp.edu.br
-
+prof. Lucas Martins - lucas.martins@idp.edu.br & graduacao.tecnologia@idp.edu.br    
 profa. Patrícia Oliveira - patricia.oliveira@idp.edu.br
 
 
 ⚙️ Dúvidas de uso e organização da página:  
 
-Lucas Martins - lucas.martins@idp.edu.br
-
+Lucas Martins - lucas.martins@idp.edu.br   
 Gelson Alves da Silva - gelson.silva@idp.edu.br
